@@ -1,6 +1,4 @@
 <?php
-
-echo 'False';
-echo 'True';
-
+	echo 'False';
+	echo 'True';
 ?>
